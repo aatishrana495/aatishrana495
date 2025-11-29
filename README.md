@@ -10,7 +10,7 @@
   <a href="mailto:aatishrana495@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/aatish-rana">
+  <a href="https://www.linkedin.com/in/aatish-rana-a53790216/">
     <img src="https://img.shields.io/badge/LinkedIn-Aatish%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--threading-222831?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Threading-222831?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SIMD%2FVectorization-222831?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Low%20Latency%20%26%20Perf%20Tuning-222831?style=for-the-badge" />
 </p>
@@ -96,27 +96,18 @@
 
 ---
 
-## 🎯 Current Interests
-
-- Hardware-aware AI & compiler-style graph optimizations  
-- Robust ML systems with strong observability & reproducibility  
-- Robotics perception stacks and simulation workflows  
-- Low-precision & efficient inference techniques  
-
----
-
 ## 📊 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aatishrana495&show_icons=true&theme=radical&hide_border=true" alt="Aatish's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aatishrana495&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatishrana495&theme=radical&hide_border=true" alt="Aatish's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aatishrana495&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatishrana495&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatishrana495&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -127,7 +118,7 @@
   <a href="mailto:aatishrana495@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/aatish-rana">
+  <a href="https://www.linkedin.com/in/aatish-rana-a53790216/">
     <img src="https://img.shields.io/badge/LinkedIn-Aatish%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/aatishrana495">
