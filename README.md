@@ -1,19 +1,20 @@
 <!--
   GitHub profile README — aatishrana495/aatishrana495
-  ----------------------------------------------------------------------------
+  ............................................................................
   Maintenance notes
-  ----------------------------------------------------------------------------
-  • Sections are marked with `<!-- SECTION: ... -->` comments for easy editing.
-  • Tone: calm, technical, grounded. No hype words, no emoji spam.
-  • Do NOT include internal performance metrics (throughput / latency /
-    accuracy percentages) or proprietary mechanism details. Keep every claim
-    at the public-framework level.
-  • "Selected work" items stay capability-level, anchored to publicly-known
-    collaborations only.
-  • "Current focus" is applied-engineering framing — no research or thesis
+  ............................................................................
+  - Sections throughout this file are marked with HTML "SECTION" comments
+    so future edits are easy to locate.
+  - Tone: calm, technical, grounded. No hype words, no emoji spam.
+  - Do NOT include internal performance metrics (throughput, latency, or
+    accuracy percentages) or proprietary mechanism details. Keep every
+    claim at the public-framework level.
+  - "Selected work" items stay capability-level, anchored only to
+    publicly-known collaborations.
+  - "Current focus" is applied-engineering framing. No research or thesis
     language in this version.
-  • To add a featured repo later, use the commented pattern in the
-    "Featured work" section below.
+  - To add a featured repo later, use the commented pattern at the end of
+    the "Featured work" section further down.
 -->
 
 <!-- SECTION: Header -->
