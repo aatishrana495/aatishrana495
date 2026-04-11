@@ -1,129 +1,123 @@
-<!-- GitHub Profile README for @aatishrana495 -->
+<!--
+  GitHub profile README — aatishrana495/aatishrana495
+  ----------------------------------------------------------------------------
+  Maintenance notes
+  ----------------------------------------------------------------------------
+  • Sections are marked with `<!-- SECTION: ... -->` comments for easy editing.
+  • Tone: calm, technical, grounded. No hype words, no emoji spam.
+  • Do NOT include internal performance metrics (throughput / latency /
+    accuracy percentages) or proprietary mechanism details. Keep every claim
+    at the public-framework level.
+  • "Selected work" items stay capability-level, anchored to publicly-known
+    collaborations only.
+  • "Current focus" is applied-engineering framing — no research or thesis
+    language in this version.
+  • To add a featured repo later, use the commented pattern in the
+    "Featured work" section below.
+-->
 
-<h1 align="center">Hi 👋, I'm <b>Aatish Rana</b></h1>
-<h3 align="center">AI/ML Engineer · Systems & Performance · Industrial AI @ IIT Madras</h3>
-
-<p align="center">
-  <a href="https://github.com/aatishrana495">
-    <img src="https://img.shields.io/badge/GitHub-aatishrana495-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:aatishrana495@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aatish-rana-a53790216/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aatish%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/M.Tech-Industrial%20AI%20(IIT%20Madras)-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(NIT%20Rourkela)-FF8C00?style=for-the-badge" />
-</p>
-
----
-
-## ⚡ Tech Snapshot
+<!-- SECTION: Header -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Hardware%20Aware%20AI%20%7C%20Optimization%20%7C%20Systems-222831?style=for-the-badge" />
+  <img src="assets/banner.svg" alt="Aatish Rana — ML systems, compilers, on-device AI" width="820" />
 </p>
 
-### 🧠 Languages & Core Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Threading-222831?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SIMD%2FVectorization-222831?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Low%20Latency%20%26%20Perf%20Tuning-222831?style=for-the-badge" />
-</p>
-
-### 🤖 AI / ML / GenAI
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX%20Runtime-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Diffusion%20Models-800080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Quantization-INT8%20%7C%20INT4-9400D3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Graph%20Transforms-222831?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Runtime%20Optimization-222831?style=for-the-badge" />
-</p>
-
-### 🧱 Systems, Tooling & CI/CD
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSIX%20Packaging-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Profiling%20%26%20Tracing-222831?style=for-the-badge" />
-</p>
-
-### 🌍 Cloud, Data & Distributed
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 🤖 Robotics, CV & Embedded
-
-<p>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-FF7F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SLAM%20Basics-222831?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embedded-nRF52%20%7C%20ESP32-222831?style=for-the-badge" />
-</p>
-
-### 🧰 Scripting & Dev Ergonomics
-
-<p>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats (Dark Theme)
+<h1 align="center">Aatish Rana</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aatishrana495&show_icons=true&theme=radical&hide_border=true" />
+  <em>Senior AI/ML Systems Engineer &nbsp;·&nbsp; on-device GenAI, ML compilers, and NPU deployment</em>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aatishrana495&theme=radical&hide_border=true" />
+  Qualcomm &nbsp;·&nbsp; IIT Madras (MTech, Industrial AI) &nbsp;·&nbsp; NIT Rourkela (BTech, CSE)
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatishrana495&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect
 
 <p align="center">
   <a href="mailto:aatishrana495@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/email-aatishrana495%40gmail.com-1f2328?style=flat-square&labelColor=1f2328" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/aatish-rana-a53790216/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aatish%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-aatish--rana-1f2328?style=flat-square&labelColor=1f2328" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/aatishrana495">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-aatishrana495-1f2328?style=flat-square&labelColor=1f2328" alt="GitHub" />
   </a>
 </p>
 
 ---
+
+<!-- SECTION: About -->
+
+## About
+
+ML systems engineer working at the intersection of deep learning compilers, runtime systems, and hardware-aware optimization for edge ML accelerators. My day-to-day sits closer to the runtime than to the notebook — where model graphs, execution providers, and silicon meet.
+
+Background blends production deployment engineering on Windows-on-Snapdragon with graduate-level study in Industrial AI at IIT Madras.
+
+<!-- SECTION: What I work on -->
+
+## What I work on
+
+- On-device and edge AI deployment for transformer and diffusion workloads
+- Execution providers and runtime behavior across **ONNX Runtime**, **QNN EP**, **DirectML**, and **WinML**
+- Graph-level optimization, fusion, layout, and dtype legality on ONNX graphs
+- Kernel-level optimization along Conv / GEMM / attention / activation paths
+- Quantization and calibration (INT8 / INT4) for transformer-class models
+- **Olive + WinML** enablement pathways for on-device model delivery
+
+<!-- SECTION: Selected work — keep items capability-level, no internal metrics -->
+
+## Selected work
+
+- Contributed to enabling **Stable Diffusion v1.5 on Windows-on-Snapdragon** — the publicly-announced Qualcomm + Microsoft collaboration bringing on-device generative AI to the NPU.
+- Work on on-device GenAI and NPU-facing model enablement across Windows platforms.
+- Execution-provider and runtime integration across the ONNX Runtime / QNN EP / DirectML / WinML ecosystem.
+- Graph-level optimization, kernel tuning, and quantization practice applied to transformer and diffusion workloads.
+- *Young Technocrat Award* &mdash; external recognition.
+
+<!-- SECTION: Systems stack -->
+
+## Systems stack
+
+**Compilers &amp; runtimes** &mdash; ONNX Runtime, QNN EP, DirectML, WinML, Olive, ONNX, IR-level graph transformations
+<br/>**Hardware targets** &mdash; Qualcomm NPUs (Hexagon / HTP), Snapdragon X, ARM64, x64
+<br/>**Models &amp; frameworks** &mdash; PyTorch, Hugging Face Transformers, diffusion models, quantization toolchains (INT8 / INT4)
+<br/>**Languages** &mdash; C++, Python, C
+<br/>**Perf &amp; debugging** &mdash; Profiling, tracing, kernel-level analysis, hardware-in-the-loop benchmarking
+<br/>**Platforms** &mdash; Windows-on-Snapdragon, Linux
+
+<!-- SECTION: Current focus -->
+
+## Current focus
+
+- Deployment-time optimization for transformer and diffusion workloads on edge accelerators
+- Compile-time vs. runtime tradeoffs across ONNX Runtime execution providers
+- Mixed-precision (INT4 / INT8 / FP16) scheduling for transformer blocks
+- Reproducible hardware-in-the-loop benchmarking
+
+<!-- SECTION: Featured work -->
+
+## Featured work
+
+Most of my production work is proprietary and lives in internal repositories. Public artifacts, writeups, and benchmark harnesses will land here as they become shareable.
+
+<!--
+  To add a featured repo later, use this pattern and place it above this comment:
+
+  - **[repo-name](https://github.com/aatishrana495/repo-name)** — one-line description.
+    _Why it matters:_ one-line context on the problem it addresses.
+-->
+
+<!-- SECTION: Contact -->
+
+## Contact
+
+<p>
+  <a href="mailto:aatishrana495@gmail.com">aatishrana495@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/aatish-rana-a53790216/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/aatishrana495">GitHub</a>
+</p>
